@@ -37,7 +37,3 @@ m = M "bbbb" (P "yangMiao" 33)
 t1 = m ^. bbb . name
 
 ac16fe1
-4ec
-1518999
-goufaf
-gugugu
