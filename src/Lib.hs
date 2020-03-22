@@ -36,8 +36,3 @@ m = M "bbbb" (P "yangMiao" 33)
 
 t1 = m ^. bbb . name
 
-<<<<<<< HEAD
------------ fafhgndi
-=======
------------ fafhgndi
->>>>>>> test1
